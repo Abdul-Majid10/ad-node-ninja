@@ -1,18 +1,19 @@
 {
-  "name": "ad-node-ninja",
-  "version": "1.0.0",
-  "description": "nothing special",
-  "main": "global.js",
-  "scripts": {
-    "start": "nodemon app.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "ejs": "^3.1.6",
-    "express": "^4.17.1",
-    "lodash": "^4.17.21",
-    "mongoose": "^6.0.5",
-    "morgan": "^1.10.0"
-  }
+    "name": "ad-node-ninja",
+    "version": "1.0.0",
+    "description": "nothing special",
+    "main": "global.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "lodash": "^4.17.21",
+        "mongoose": "^6.0.5",
+        "morgan": "^1.10.0",
+        "nodemon": "^2.0.15"
+    }
 }
